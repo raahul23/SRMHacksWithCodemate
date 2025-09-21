@@ -68,8 +68,8 @@ Submission includes:
 ✅ Hosted submission on CodeMate platform
 
 👨‍💻 Author
-Raahul Kokki Raahul
-BCA (AI & ML) | SRM Institute of Science and Technology
+Raahul U
+B.Tech CSE(AI & ML) | SRM Institute of Science and Technology
 
 yaml
 Copy code
